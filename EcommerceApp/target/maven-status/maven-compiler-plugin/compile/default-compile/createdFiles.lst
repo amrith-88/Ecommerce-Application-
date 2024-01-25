@@ -1,0 +1,6 @@
+com\eca\model\Ecommerce.class
+com\eca\controller\EcomController.class
+com\eca\repository\EcommerceRepo.class
+com\eca\service\EcomImpl.class
+com\eca\service\EcommerceService.class
+com\eca\EcommerceAppApplication.class
